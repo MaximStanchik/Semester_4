@@ -1,0 +1,9 @@
+p {
+    font-size: 10px;
+    margin:5px;
+    padding:0;
+}
+label {
+    width: 200px;
+    display:inline-block;
+}

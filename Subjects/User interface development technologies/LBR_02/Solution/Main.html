@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title></title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="Main.css" rel="stylesheet">
+</head>
+
+<body>
+
+    <div style="display: flex; gap: 50px">
+        <div class="settings">
+            <p>Thimble's Height</p>
+            <input type="number" name="height" placeholder="140">
+            <br>
+
+            <p>Thimble's Width</p>
+            <input type="number" name="width" placeholder="100">
+            <br>
+
+            <p>Ball's Diameter</p>
+            <input type="number" name="diameter" placeholder="50">
+            <br>
+
+            <input id="save" type="button" name="save" value="Save">
+        </div>
+
+        <div class="result">
+            <p>Result</p>
+            <input id="result" type="number" name="result" disabled>
+            <p id="right" style="display: none; color: red; font-size: 20px"></p>
+        </div>
+    </div>
+
+    <div class="thimbles">
+        <div style="position: relative;">
+            <div class="thimble"></div>
+            <div class="ball"></div>
+        </div>
+        <div style="position: relative;">
+            <div class="thimble"></div>
+            <div class="ball"></div>
+        </div>
+        <div style="position: relative;">
+            <div class="thimble"></div>
+            <div class="ball"></div>
+        </div>
+    </div>
+
+    <button id="update" type="" style="margin: 50px auto; display: block;">Update</button>
+
+    <script src="Main.js"></script>
+</body>
+
+</html>
