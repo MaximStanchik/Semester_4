@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="LBR_09">
+    <output-path>$PROJECT_DIR$/out/artifacts/LBR_09</output-path>
+    <root id="archive" name="LBR_09.war" />
+  </artifact>
+</component>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+    <xs:element name="infoAboutUsersAndCardTypes" type="InfoAboutUsersAndCardTypesType"/>
+
+    <xs:complexType name="InfoAboutUsersAndCardTypesType">
+        <xs:sequence>
+            <xs:element name="cardTypes" type="CardTypesType"/>
+            <xs:element name="passkeys" type="PasskeysType"/>
+        </xs:sequence>
+        <xs:attribute name="type" type="xs:string" use="required"/>
+    </xs:complexType>
+
+    <xs:complexType name="CardTypesType">
+        <xs:sequence>
+            <xs:element name="cardType_1" type="xs:string" maxOccurs="unbounded"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="PasskeysType">
+        <xs:sequence>
+            <xs:element name="Admin_12" type="AdminType"/>
+            <xs:element name="Client_1" type="ClientType"/>
+            <xs:element name="Client_2" type="ClientType"/>
+            <xs:element name="Client_3" type="ClientType"/>
+            <xs:element name="Client_4" type="ClientType"/>
+            <xs:element name="Client_5" type="ClientType"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="AdminType">
+        <xs:sequence>
+            <xs:element name="accountInfo" type="AccountInfoType"/>
+            <xs:element name="user" type="xs:string"/>
+            <xs:element name="uniqueIdentificator" type="xs:string"/>
+            <xs:element name="accountLevel" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="ClientType">
+        <xs:sequence>
+            <xs:element name="accountInfo" type="AccountInfoType"/>
+            <xs:element name="user" type="xs:string"/>
+            <xs:element name="uniqueIdentificator" type="xs:string"/>
+            <xs:element name="accountLevel" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="AccountInfoType">
+        <xs:sequence>
+            <xs:element name="card" maxOccurs="unbounded">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="cardType" type="xs:string"/>
+                        <xs:element name="BankAccount" type="xs:decimal"/>
+                        <xs:element name="bankNumber" type="xs:string"/>
+                        <xs:element name="accessLevel" type="xs:string"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+        </xs:sequence>
+    </xs:complexType>
+
+</xs:schema>

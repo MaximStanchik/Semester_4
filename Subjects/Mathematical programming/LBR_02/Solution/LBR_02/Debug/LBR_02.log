@@ -1,0 +1,27 @@
+﻿Сборка начата 28.02.2024 19:11:22.
+Уровень детализации журнала: Normal.     1>Проект "D:\User\Desktop\StudyAtBSTU\Course 2\Semester 4\Subjects\Mathematical programming\LBR_02\Solution\LBR_02\LBR_02.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\LBR_02.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"Debug\\" /Fd"Debug\vc143.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt Main.cpp
+         Main.cpp
+     1>D:\User\Desktop\StudyAtBSTU\Course 2\Semester 4\Subjects\Mathematical programming\LBR_02\Solution\LBR_02\Main.cpp(96,16): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>D:\User\Desktop\StudyAtBSTU\Course 2\Semester 4\Subjects\Mathematical programming\LBR_02\Solution\LBR_02\Main.cpp(105,6): error C2374: m: переопределение; множественная инициализация
+       D:\User\Desktop\StudyAtBSTU\Course 2\Semester 4\Subjects\Mathematical programming\LBR_02\Solution\LBR_02\Main.cpp(68,7): message : см. объявление "m"
+     1>Сборка проекта "D:\User\Desktop\StudyAtBSTU\Course 2\Semester 4\Subjects\Mathematical programming\LBR_02\Solution\LBR_02\LBR_02.vcxproj" завершена (целевые объекты Build) с ошибкой.
+
+Ошибка сборки.
+
+       "D:\User\Desktop\StudyAtBSTU\Course 2\Semester 4\Subjects\Mathematical programming\LBR_02\Solution\LBR_02\LBR_02.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         D:\User\Desktop\StudyAtBSTU\Course 2\Semester 4\Subjects\Mathematical programming\LBR_02\Solution\LBR_02\Main.cpp(96,16): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+
+
+       "D:\User\Desktop\StudyAtBSTU\Course 2\Semester 4\Subjects\Mathematical programming\LBR_02\Solution\LBR_02\LBR_02.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         D:\User\Desktop\StudyAtBSTU\Course 2\Semester 4\Subjects\Mathematical programming\LBR_02\Solution\LBR_02\Main.cpp(105,6): error C2374: m: переопределение; множественная инициализация
+
+    Предупреждений: 1
+    Ошибок: 1
+
+Прошло времени 00:00:00.71

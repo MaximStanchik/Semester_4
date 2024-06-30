@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<infoAboutUsersAndCardTypes type="EntranceInAccount">
+
+    <cardTypes>
+        <cardType_1>UnityCash</cardType_1>
+        <cardType_1>AuroraPay</cardType_1>
+        <cardType_1>StellarSpend</cardType_1>
+        <cardType_1>NexusCard</cardType_1>
+        <cardType_1>HarmonyPlus</cardType_1>
+    </cardTypes>
+
+    <passkeys>
+        <Admin_12>
+            <accountInfo>
+                    <card>
+                        <cardType>UnityCash</cardType>
+                        <BankAccount>3000</BankAccount>
+                        <bankNumber>2003 2983 2983 3984</bankNumber>
+                        <accessLevel>allowed</accessLevel>
+                    </card>
+                    <card>
+                        <cardType>AuroraPay</cardType>
+                        <BankAccount>2000</BankAccount>
+                        <bankNumber>3874 9473 8374 8463</bankNumber>
+                        <accessLevel>allowed</accessLevel>
+                    </card>
+            </accountInfo>
+            <user>Admin_12</user>
+            <uniqueIdentificator>8888jjjj0000E</uniqueIdentificator>
+            <accountLevel>administrator</accountLevel>
+
+        </Admin_12>
+
+        <Client_1>
+            <accountInfo>
+                    <card>
+                        <cardType>UnityCash</cardType>
+                        <BankAccount>900</BankAccount>
+                        <bankNumber>3984 8474 8744 9333</bankNumber>
+                        <accessLevel>allowed</accessLevel>
+                    </card>
+                    <card>
+                        <cardType>AuroraPay</cardType>
+                        <BankAccount>70</BankAccount>
+                        <bankNumber>3984 9484 9844 9844</bankNumber>
+                        <accessLevel>allowed</accessLevel>
+                    </card>
+            </accountInfo>
+            <user>Client_1</user>
+            <uniqueIdentificator>9381vddd2221R</uniqueIdentificator>
+            <accountLevel>client</accountLevel>
+
+
+
+        </Client_1>
+
+        <Client_2>
+            <accountInfo>
+                    <card>
+                        <cardType>StellarSpend</cardType>
+                        <BankAccount>1700</BankAccount>
+                        <bankNumber>8374 7464 4874 9898</bankNumber>
+                        <accessLevel>allowed</accessLevel>
+                    </card>
+                    <card>
+                        <cardType>NexusCard</cardType>
+                        <BankAccount>1066</BankAccount>
+                        <bankNumber>3974 9844 7447 4985</bankNumber>
+                        <accessLevel>allowed</accessLevel>
+                    </card>
+            </accountInfo>
+            <user>Client_2</user>
+            <uniqueIdentificator>8723gooo4441L</uniqueIdentificator>
+            <accountLevel>client</accountLevel>
+
+
+
+        </Client_2>
+
+        <Client_3>
+            <accountInfo>
+                    <card>
+                        <cardType>AuroraPay</cardType>
+                        <BankAccount>2000</BankAccount>
+                        <bankNumber>3444 3873 8733 9444</bankNumber>
+                        <accessLevel>allowed</accessLevel>
+                    </card>
+                    <card>
+                        <cardType>NexusCard</cardType>
+                        <BankAccount>7000</BankAccount>
+                        <bankNumber>9398 3983 9833 5865</bankNumber>
+                        <accessLevel>allowed</accessLevel>
+                    </card>
+            </accountInfo>
+            <user>Client_3</user>
+            <uniqueIdentificator>2133holo1233M</uniqueIdentificator>
+            <accountLevel>client</accountLevel>
+
+
+
+        </Client_3>
+
+        <Client_4>
+            <accountInfo>
+                    <card>
+                        <cardType>AuroraPay</cardType>
+                        <BankAccount>7000</BankAccount>
+                        <bankNumber>9374 8474 9837 3873</bankNumber>
+                        <accessLevel>allowed</accessLevel>
+                    </card>
+                    <card>
+                        <cardType>StellarSpend</cardType>
+                        <BankAccount>10000</BankAccount>
+                        <bankNumber>9383 8478 8738 9374</bankNumber>
+                        <accessLevel>allowed</accessLevel>
+                    </card>
+            </accountInfo>
+            <user>Client_4</user>
+            <uniqueIdentificator>1244jiji1342K</uniqueIdentificator>
+            <accountLevel>client</accountLevel>
+
+
+
+        </Client_4>
+
+        <Client_5>
+            <accountInfo>
+                    <card>
+                        <cardType>UnityCash</cardType>
+                        <BankAccount>2000</BankAccount>
+                        <bankNumber>0393 9383 1122 3334</bankNumber>
+                        <accessLevel>allowed</accessLevel>
+                    </card>
+                    <card>
+                        <cardType>AuroraPay</cardType>
+                        <BankAccount>7000</BankAccount>
+                        <bankNumber>3947 3837 9187 5674</bankNumber>
+                        <accessLevel>allowed</accessLevel>
+                    </card>
+            </accountInfo>
+            <user>Client_5</user>
+            <uniqueIdentificator>1244jiji1342K</uniqueIdentificator>
+            <accountLevel>client</accountLevel>
+
+        </Client_5>
+    </passkeys>
+</infoAboutUsersAndCardTypes>

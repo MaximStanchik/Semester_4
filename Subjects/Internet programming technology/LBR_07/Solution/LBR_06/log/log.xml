@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<log>
+    <output>Task: Print the numbers of orders whose total does not exceed the specified one and the number of different products is equal to the specified one.
+Orders with product quantity 10 and total amount not exceeding 20:
+</output>
+</log>
