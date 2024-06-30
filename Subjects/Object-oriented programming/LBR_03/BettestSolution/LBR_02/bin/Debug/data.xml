@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<DataContainer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Purveyor>
+    <organization>company</organization>
+    <state>NW</state>
+    <address>7366473</address>
+    <phoneNumber>+291318922</phoneNumber>
+  </Purveyor>
+  <Product>
+    <name>apple</name>
+    <inventoryNumber>216371267</inventoryNumber>
+    <size>33</size>
+    <weight>116</weight>
+    <type>some sort</type>
+    <receiptDate>2024-03-04T18:33:11.0980685+03:00</receiptDate>
+    <count>16</count>
+    <price>126</price>
+    <purveyor>
+      <organization>company</organization>
+      <state>NW</state>
+      <address>7366473</address>
+      <phoneNumber>+291318922</phoneNumber>
+    </purveyor>
+    <productDescription>nice and sweety</productDescription>
+  </Product>
+</DataContainer>

@@ -1,0 +1,17 @@
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Subjects\Object-oriented programming\LBR_06\Solution\MyLib\bin\Debug\net5.0-windows\MyLib.deps.json
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Subjects\Object-oriented programming\LBR_06\Solution\MyLib\bin\Debug\net5.0-windows\MyLib.dll
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Subjects\Object-oriented programming\LBR_06\Solution\MyLib\bin\Debug\net5.0-windows\MyLib.pdb
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Subjects\Object-oriented programming\LBR_06\Solution\MyLib\obj\Debug\net5.0-windows\MyLib.csproj.AssemblyReference.cache
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Subjects\Object-oriented programming\LBR_06\Solution\MyLib\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Subjects\Object-oriented programming\LBR_06\Solution\MyLib\obj\Debug\net5.0-windows\MyLib_MarkupCompile.cache
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Subjects\Object-oriented programming\LBR_06\Solution\MyLib\obj\Debug\net5.0-windows\MyLib_MarkupCompile.lref
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Subjects\Object-oriented programming\LBR_06\Solution\MyLib\obj\Debug\net5.0-windows\Themes\Generic.baml
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Subjects\Object-oriented programming\LBR_06\Solution\MyLib\obj\Debug\net5.0-windows\MyLib.g.resources
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Subjects\Object-oriented programming\LBR_06\Solution\MyLib\obj\Debug\net5.0-windows\MyLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Subjects\Object-oriented programming\LBR_06\Solution\MyLib\obj\Debug\net5.0-windows\MyLib.AssemblyInfoInputs.cache
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Subjects\Object-oriented programming\LBR_06\Solution\MyLib\obj\Debug\net5.0-windows\MyLib.AssemblyInfo.cs
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Subjects\Object-oriented programming\LBR_06\Solution\MyLib\obj\Debug\net5.0-windows\MyLib.csproj.CoreCompileInputs.cache
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Subjects\Object-oriented programming\LBR_06\Solution\MyLib\obj\Debug\net5.0-windows\MyLib.dll
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Subjects\Object-oriented programming\LBR_06\Solution\MyLib\obj\Debug\net5.0-windows\refint\MyLib.dll
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Subjects\Object-oriented programming\LBR_06\Solution\MyLib\obj\Debug\net5.0-windows\MyLib.pdb
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Subjects\Object-oriented programming\LBR_06\Solution\MyLib\obj\Debug\net5.0-windows\ref\MyLib.dll

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ResultData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Type>Vegetables</Type>
+  <InvNumbers>
+    <string>CU-5678</string>
+    <string>TM-1234</string>
+    <string>PT-9012</string>
+  </InvNumbers>
+</ResultData>
