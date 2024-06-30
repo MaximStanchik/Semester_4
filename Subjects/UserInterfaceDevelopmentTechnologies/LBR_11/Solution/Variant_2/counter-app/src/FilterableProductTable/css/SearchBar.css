@@ -1,0 +1,28 @@
+.SearchBar {
+  font-size: 24px;
+  background-color: lightgrey;
+}
+
+.SearchBar input[type="text"] {
+  width: 100%;
+  font-size: 30px;
+  box-sizing: border-box;
+  background-color: #aaa;
+  border: 10px inset #eee;
+}
+
+.SearchBar input[type="text"]:focus {
+  outline: none;
+  color: white;
+}
+
+.SearchBar input[type="checkbox"] {
+  width: 24px;
+  height: 24px;
+}
+
+.SearchBar p {
+  font-style: italic;
+  background-color: #ffce00;
+  border: 10px outset orange;
+}

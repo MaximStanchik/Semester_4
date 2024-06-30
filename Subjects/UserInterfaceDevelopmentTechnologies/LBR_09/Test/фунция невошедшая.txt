@@ -1,0 +1,58 @@
+function swapColumnsAreas(partiallyFilledField: number[][], firstArea: number, secondArea: number): number[][] { //поменять местами районы по вертикали
+    if (Math.abs(secondArea - firstArea) >= 2) {
+        console.log("Такие районы менять нельзя");
+    }
+    else if (Math.abs(secondArea - firstArea) == 0) {
+        console.log("Районы одинаковые");
+    }
+    else if (firstArea > 3 || secondArea > 3) {
+        console.log("Районы отсутствуют");   
+    }
+    else {
+        
+    }
+    return partiallyFilledField;
+  }
+
+еще вот эта не вошла:
+function checkSudokuValues (inputValues: string[], fullSudokuField: string[]): string[] { 
+  let numbersOfID: string[] =[]; 
+  for (let i: number = 0; i < 81; i++) {
+    if (inputValues[i] ==  fullSudokuField[i]) {
+      continue;
+    }
+    else if (inputValues[i] !=  fullSudokuField[i] && inputValues[i] == "") {
+      continue;
+    }
+    else if (inputValues[i] !=  fullSudokuField[i]){
+      numbersOfID.push(i.toString());
+      for (let m: number = i; m>0; m = m-9) { //проверка по столбцу вверх
+        if (inputValues[m] == inputValues[i]) {
+        numbersOfID.push(m.toString());
+        }
+      }
+      for (let j: number = i; j<72; j = j+9) { //проверка по столбцу вниз
+        if (inputValues[j] == inputValues[i]) {
+        numbersOfID.push(j.toString());
+        }
+      }
+      for (let k:number = i; k%9 != 0; k--) { //проверка по строке влево
+        if (inputValues[k] == inputValues[i]) {
+          for (let p:number = Math.floor(i/9) * 9; p <= Math.floor(i/9) + 9; p++) {
+            numbersOfID.push(p.toString());
+          }          
+          }
+      }
+      for (let k:number = i; k%9 != 0; k++) { //проверка по строке вправо
+        if (inputValues[k] == inputValues[i]) {
+          numbersOfID.push(k.toString());
+          }
+      } //нужно подкрашивать квадрат в котором элемент, и еще надо подкрашивать сразу столбце и строку
+      
+    }
+    else {
+      continue;
+    }
+  }
+  return numbersOfID;
+}

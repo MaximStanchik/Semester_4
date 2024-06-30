@@ -1,0 +1,10 @@
+.ProductTable {
+  background-color: lightgrey;
+  width: 100%
+}
+
+.ProductTable thead th {
+  width: 50%;
+}
+
+

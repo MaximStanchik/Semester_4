@@ -1,0 +1,91 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+#SudokuField { 
+  display: grid;
+  grid-template-rows: 75px 75px 75px 75px 75px 75px 75px 75px 75px;
+  grid-template-columns: 75px 75px 75px 75px 75px 75px 75px 75px 75px;
+  width: 500px;
+  height: 500px;
+  }
+#SudokuField > form {
+  font-size: 50px;
+  text-align: center;
+}
+form > input {
+  width: 50px;
+  height: 50px;
+  font-size: 50px;
+  text-align: center;
+  color:white;
+}
+.Field_1 {
+  background: rgb(93, 231, 255);
+}
+
+.Field_2 {
+  background: rgb(119, 255, 0);
+}
+
+.Field_3 {
+  background: palegreen;
+}
+
+.Field_4 {
+  background: rgb(0, 255, 174);
+}
+
+.Field_5 {
+  background: rgb(0, 255, 234);
+}
+
+.Field_6 {
+  background: rgb(0, 255, 174);
+}
+
+.Field_7 {
+  background: rgb(15, 255, 11);
+}
+
+.Field_8 {
+  background: rgb(0, 255, 110);
+}
+
+.Field_9 {
+  background: rgb(0, 255, 221);
+}
+
+#NewGameButton {
+  margin-left: 234px;
+  margin-top: 19px;
+  width: 56px;
+  background-color: rgb(26, 255, 0);
+}
+
+#CheckButton {
+  margin-left: 309px;
+  margin-top: 19px;
+  width: 56px;
+  background-color: rgb(26, 255, 0);
+}

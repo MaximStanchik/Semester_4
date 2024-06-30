@@ -1,0 +1,57 @@
+function checkSudokuValues(inputValues: string[], fullSudokuField: string[]): string[] { //функция сначала сравнивает элемент введенный пользователем с элементом в заполненой доске, а потом сравнивает по строке и столбцу
+  let numbersOfID: string[] = [];
+  for (let i: number = 0; i < 81; i++) {
+    if (inputValues[i] == fullSudokuField[i]) {
+      continue;
+    }
+    else if (inputValues[i] == "") {
+      continue;
+    }
+    else {
+      numbersOfID.push(i.toString());
+      for (let m: number = i; m > 0; m = m - 9) { //получение ID элементов столбца (вверх)
+        numbersOfID.push(m.toString());
+      }
+      for (let j: number = i; j <= 81; j = j + 9) { //получение ID элементов столбца (вниз)
+        numbersOfID.push(j.toString());
+      }
+      const rowNumber: number = Math.floor(i / 9);
+      for (let x: number = rowNumber * 9; x < rowNumber * 9 + 9; x++) { //получение ID элементов строки
+        numbersOfID.push(x.toString());
+      }
+      const squareRow: number = Math.floor(rowNumber / 3); // Номер строки квадрата //подкрашивание квадрата в котором элемент
+      const squareColumn: number = Math.floor(i % 9 / 3); // Номер столбца квадрата
+      const squareStartIndex: number = squareRow * 3 * 9 + squareColumn * 3; // Индекс первого элемента в квадрате
+
+      for (let y: number = 0; y < 3; y++) {
+        for (let z: number = 0; z < 3; z++) {
+          const squareIndex: number = squareStartIndex + y * 9 + z;
+          numbersOfID.push(squareIndex.toString());
+        }
+      }
+
+    }
+  }
+  return numbersOfID;
+}export default checkSudokuValues;
+
+const checkTheValuesOnTheBoard = () => {
+    const IDerrors: string[] = checkSudokuValues(inputValues,fullSudokuField);
+    let element: HTMLElement | null;
+    for (let i: number = 0; i < IDerrors.length; i ++) {
+      element = document.getElementById(IDerrors[i]);
+      if (element != null) {
+        element.style.backgroundColor = 'red';
+      }
+      else {
+        console.log("ОШИБКА. ЭЛЕМЕНТ С ЗНАЧЕНИЕМ 0");
+      }
+    }
+    if (IDerrors.length === 0) {
+    const boardElements:NodeListOf<Element> = document.querySelectorAll('[class^="field_"]');
+    for (let i:number = 0; i < boardElements.length; i++) {
+      const element_1 = boardElements[i] as HTMLElement;
+      element_1.style.backgroundColor = 'yellow';
+    }
+  }
+  }

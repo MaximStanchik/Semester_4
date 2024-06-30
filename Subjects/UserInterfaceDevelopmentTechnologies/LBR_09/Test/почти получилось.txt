@@ -1,0 +1,35 @@
+rowsErrors.forEach((duplicates, rowID) => {
+        for (let elementOfRow: number = rowID; elementOfRow < rowID + 9; elementOfRow++) {
+          element = document.getElementById(elementOfRow.toString());
+          if (element != null) {
+            element.style.backgroundColor = 'red';
+          }
+          else {
+            console.log("ОШИБКА. ЭЛЕМЕНТ С ЗНАЧЕНИЕМ 0");
+          }
+        }
+      });
+  
+      columnErrors.forEach((duplicates, columnNumber) => { 
+        for (let i: number = 0; i < duplicates.length; i++) {
+          element = document.getElementById(duplicates[i]);
+          if (element != null) {
+            element.style.backgroundColor = 'red';
+          }
+          else {
+            console.log("ОШИБКА. ЭЛЕМЕНТ С ЗНАЧЕНИЕМ 0");
+          }
+        }
+      });
+
+
+      for (let i: number = 0; i < squareErrors.length; i++) {
+        element = document.getElementById(squareErrors[i]);
+        if (element != null) {
+          element.style.backgroundColor = 'red';
+        }
+        else {
+          console.log("ОШИБКА. ЭЛЕМЕНТ С ЗНАЧЕНИЕМ 0");
+        }
+      }
+  

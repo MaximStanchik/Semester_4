@@ -1,0 +1,50 @@
+.Cards {
+  display: flex;
+  flex-wrap: wrap;
+  flex-grow: 1;
+  padding: 20px;
+  gap: 20px;
+  position: relative;
+}
+
+.Card {
+  width: calc((100% - 40px) / 3);
+  color: black;
+  border-radius: 5px;
+  overflow: hidden;
+  box-sizing: border-box;
+  transform: translate(-2px, -2px);
+  box-shadow: 2px 2px 0 0 black;
+  transition: all 0.1s;
+  position: relative;
+  background-color:  lightyellow;
+}
+
+.Card:hover {
+  transform: translate(-10px, -10px);
+  box-shadow: 10px 10px 0 0 black;
+}
+
+.Card img {
+  width: 100%;
+}
+
+.Card .Info {
+  color: #444;
+  padding: 10px;
+}
+
+.Card .Info .Title {
+  font-size: 24px;
+  font-weight: normal;
+}
+
+.Card .Info .Keys {
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.Card .Info .Keys .Type {
+  color: #32f;
+}

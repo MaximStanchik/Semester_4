@@ -1,0 +1,17 @@
+export function checkEmptyCells(inputValues: string[], sudokuField: string[]): number {
+  let arrayOfID: number[] = [];
+  for (let i: number = 0; i < 81; i++) {
+    if (inputValues[i] == "") {
+      arrayOfID.push(i);
+    }
+  }
+  if (arrayOfID.length == 0) { //при каждом нажатии j генерируется все поле заново
+    return -1;
+  }
+  else {
+    console.log(arrayOfID)
+    const randomIndex = Math.floor(Math.random() * (arrayOfID.length - 1)); // генерируем случайный индекс в допустимом диапазоне
+    const result = arrayOfID[randomIndex];
+    return result;
+  }
+}

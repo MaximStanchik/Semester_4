@@ -1,0 +1,28 @@
+export function checkSudokuSquare(inputValues: string[]): string[] {
+  const errorLocations: string[] = [];
+
+  for (let squareNumber = 0; squareNumber < 81; squareNumber = squareNumber + 3) {
+    let numbersOfID: string[] = [];
+    let numbersOfIDWithoutNull: string[] = [];
+    let sqNum: number = 0;
+    for (let squareRow: number = 0; squareRow < 3; squareRow++) {
+      for (let rowElem: number = 0; rowElem < 3; rowElem++) {
+        numbersOfID.push(inputValues[squareNumber + rowElem + sqNum]);
+        if (inputValues[squareNumber + rowElem + sqNum] != "") {
+          numbersOfIDWithoutNull.push(inputValues[squareNumber + rowElem + sqNum]);
+        }
+      }
+      sqNum = sqNum + 9;
+    }
+    if (makeUniq(numbersOfIDWithoutNull).length < numbersOfIDWithoutNull.length) { //команда debagger (пишется рядом со строкой) + есть еще консоль + скорее всего где-то неверное условие  в цикле
+      for (let i: number = 0; i < numbersOfID.length; i++) { //стараться делать дома что-то
+        errorLocations.push(numbersOfID[i]);
+      }
+    }
+    else {
+      continue;
+    }
+  }
+  console.log(errorLocations);
+  return errorLocations;
+}

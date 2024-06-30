@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="Main.css">
+    <title>LBR_01</title>
+</head>
+
+<body>
+    <h3>Заполните форму:</h3>
+    <form method="POST">
+
+        <div><label>Фамилия</label>
+        <input type="text" id="surname" name="surname"><br><br>
+        <div id="surnameErrorMessage"></div>
+    </div>
+        <div><label>Имя</label>
+        <input type="text" id="name" name="name"><br><br>
+        <div id="nameErrorMessage"></div>
+    </div>
+
+        <div><label>E-mail</label>
+        <input type="email" id="email" name="email" required><br><br>
+        <div id="emailErrorMessage"></div>
+    </div>
+
+        <div><label>Телефон(0xx)xxx-xx-xx</label>
+        <input type="email" id="phoneNumber" name="email" required><br><br>
+        <div id="phoneNumberErrorMessage"></div>
+    </div>
+
+        <div><label for="city">Город</label>
+            <select id="city">
+                <option value="1">Minsk</option>
+                <option value="2">Brest</option>
+                <option value="1">Grodno</option>
+                <option value="2">Baranovichi</option>
+                <option value="1">(Other)</option>
+            </select>
+    </div>
+
+        <div><label for="university">Я учусь в БГТУ</label>
+            <input type="checkbox" id="study" value="">
+            <p></p>
+    </div>
+
+        <div><label for="course">На каком курсе Вы учитесь?</label>
+            1<input type="radio" name="course" value="1">
+            2<input type="radio" name="course" value="2">
+            3<input type="radio" name="course" value="3">
+            4<input type="radio" name="course" value="4">
+    </div>
+
+        <div><label for="about">Расскажите о себе</label>
+        <textarea id = "tellAboutYourself"></textarea><br><br>
+        <div id="tellAboutYourselfErrorMessage"></div>
+    </div>
+
+        <button id="checkButton">Проверить</button>
+    </form>
+    <script src="Main.js"></script>
+</body>
+</html>
