@@ -1,0 +1,10 @@
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\2\Solution\StringSplitting\bin\Debug\StringSplitting.exe.config
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\2\Solution\StringSplitting\bin\Debug\StringSplitting.exe
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\2\Solution\StringSplitting\bin\Debug\StringSplitting.pdb
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\2\Solution\StringSplitting\obj\Debug\StringSplitting.csproj.AssemblyReference.cache
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\2\Solution\StringSplitting\obj\Debug\StringSplitting.Properties.Resources.resources
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\2\Solution\StringSplitting\obj\Debug\StringSplitting.csproj.GenerateResource.cache
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\2\Solution\StringSplitting\obj\Debug\StringSplitting.csproj.CoreCompileInputs.cache
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\2\Solution\StringSplitting\obj\Debug\StringSplitting.exe
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\2\Solution\StringSplitting\obj\Debug\StringSplitting.pdb
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\2\Solution\StringSplitting\obj\Debug\StringSplitting.Form1.resources

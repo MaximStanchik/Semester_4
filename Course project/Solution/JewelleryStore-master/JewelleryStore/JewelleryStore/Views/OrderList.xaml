@@ -1,0 +1,54 @@
+﻿<Page x:Class="JewelleryStore.Views.OrderList"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:local="clr-namespace:JewelleryStore.Views"
+      mc:Ignorable="d"
+      d:DesignHeight="450"
+      d:DesignWidth="800"
+      Title="OrderList">
+    <Grid>
+        <DataGrid AutoGenerateColumns="False" IsReadOnly="True" ItemsSource="{Binding Bills}">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="{DynamicResource BillID}" Binding="{Binding BillId}" />
+                <DataGridTextColumn Header="{DynamicResource OrderedDishes}" Binding="{Binding ProductInfo}" />
+                <DataGridTextColumn Header="{DynamicResource DateOfOrder}" Binding="{Binding DateOfOrder}" />
+                <DataGridTextColumn Header="{DynamicResource OrderCost}" Binding="{Binding TotalPrice}" />
+                <DataGridTextColumn Header="{DynamicResource ClientNickname}" Binding="{Binding NickName}" />
+                <DataGridTextColumn Header="{DynamicResource ClientFirstName}" Binding="{Binding GivenName}" />
+                <DataGridTextColumn Header="{DynamicResource ClientLastName}" Binding="{Binding LastName}" />
+                <DataGridTextColumn Header="{DynamicResource ClientEmail}" Binding="{Binding Email}" />
+                <DataGridTextColumn Header="{DynamicResource DeliveryType}" Binding="{Binding DeliveryType}" />
+                <DataGridTextColumn Header="{DynamicResource ClientCity}" Binding="{Binding City}" />
+                <DataGridTextColumn Header="{DynamicResource ClientStreet}" Binding="{Binding Street}" />
+                <DataGridTextColumn Header="{DynamicResource ClientHouse}" Binding="{Binding House}" />
+                <DataGridTextColumn Header="{DynamicResource ClientApartment}" Binding="{Binding Apartment}" />
+                <DataGridTextColumn Header="{DynamicResource ClientEntrance}" Binding="{Binding Entrance}" />
+                <DataGridTextColumn Header="{DynamicResource ClientFloor}" Binding="{Binding Floor}" />
+                <DataGridTextColumn Header="{DynamicResource ClientComment}" Binding="{Binding Comment}" />
+                <DataGridTextColumn Header="{DynamicResource OrderStatus}" Binding="{Binding Status}" />
+                <DataGridTemplateColumn>
+                    <DataGridTemplateColumn.Header>
+                        <TextBlock Text="{DynamicResource ChangeStatus}"/>
+                    </DataGridTemplateColumn.Header>
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button Content="{DynamicResource ChangeStatus}" Click="ChangeStatus_Click"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTemplateColumn>
+                    <DataGridTemplateColumn.Header>
+                        <TextBlock Text="{DynamicResource SendMessageToTheClient}"/>
+                    </DataGridTemplateColumn.Header>
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button Content="{DynamicResource SendMessageToTheClient}" Click="SendMessage_Click"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Page>

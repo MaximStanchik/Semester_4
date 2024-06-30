@@ -1,0 +1,10 @@
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\5\Calculator\bin\Debug\Calculator.exe.config
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\5\Calculator\bin\Debug\Calculator.exe
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\5\Calculator\bin\Debug\Calculator.pdb
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\5\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\5\Calculator\obj\Debug\Calculator.Form1.resources
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\5\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\5\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\5\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\5\Calculator\obj\Debug\Calculator.exe
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\5\Calculator\obj\Debug\Calculator.pdb

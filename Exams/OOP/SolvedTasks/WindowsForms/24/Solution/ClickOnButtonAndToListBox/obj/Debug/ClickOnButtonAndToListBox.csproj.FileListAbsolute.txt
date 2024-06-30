@@ -1,0 +1,10 @@
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\24\Solution\ClickOnButtonAndToListBox\bin\Debug\ClickOnButtonAndToListBox.exe.config
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\24\Solution\ClickOnButtonAndToListBox\bin\Debug\ClickOnButtonAndToListBox.exe
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\24\Solution\ClickOnButtonAndToListBox\bin\Debug\ClickOnButtonAndToListBox.pdb
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\24\Solution\ClickOnButtonAndToListBox\obj\Debug\ClickOnButtonAndToListBox.csproj.AssemblyReference.cache
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\24\Solution\ClickOnButtonAndToListBox\obj\Debug\ClickOnButtonAndToListBox.Form1.resources
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\24\Solution\ClickOnButtonAndToListBox\obj\Debug\ClickOnButtonAndToListBox.Properties.Resources.resources
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\24\Solution\ClickOnButtonAndToListBox\obj\Debug\ClickOnButtonAndToListBox.csproj.GenerateResource.cache
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\24\Solution\ClickOnButtonAndToListBox\obj\Debug\ClickOnButtonAndToListBox.csproj.CoreCompileInputs.cache
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\24\Solution\ClickOnButtonAndToListBox\obj\Debug\ClickOnButtonAndToListBox.exe
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\24\Solution\ClickOnButtonAndToListBox\obj\Debug\ClickOnButtonAndToListBox.pdb

@@ -1,0 +1,16 @@
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WPF\Simple\1\Solution\SliderAndText\bin\Debug\SliderAndText.exe.config
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WPF\Simple\1\Solution\SliderAndText\bin\Debug\SliderAndText.exe
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WPF\Simple\1\Solution\SliderAndText\bin\Debug\SliderAndText.pdb
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WPF\Simple\1\Solution\SliderAndText\obj\Debug\SliderAndText.csproj.AssemblyReference.cache
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WPF\Simple\1\Solution\SliderAndText\obj\Debug\MainWindow.g.cs
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WPF\Simple\1\Solution\SliderAndText\obj\Debug\App.g.cs
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WPF\Simple\1\Solution\SliderAndText\obj\Debug\SliderAndText_MarkupCompile.cache
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WPF\Simple\1\Solution\SliderAndText\obj\Debug\SliderAndText_MarkupCompile.lref
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WPF\Simple\1\Solution\SliderAndText\obj\Debug\MainWindow.baml
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WPF\Simple\1\Solution\SliderAndText\obj\Debug\SliderAndText.g.resources
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WPF\Simple\1\Solution\SliderAndText\obj\Debug\SliderAndText.Properties.Resources.resources
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WPF\Simple\1\Solution\SliderAndText\obj\Debug\SliderAndText.csproj.GenerateResource.cache
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WPF\Simple\1\Solution\SliderAndText\obj\Debug\SliderAndText.csproj.CoreCompileInputs.cache
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WPF\Simple\1\Solution\SliderAndText\obj\Debug\SliderAndText.exe
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WPF\Simple\1\Solution\SliderAndText\obj\Debug\SliderAndText.pdb
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WPF\Simple\1\Solution\SliderAndText\obj\Debug\GeneratedInternalTypeHelper.g.cs

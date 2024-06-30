@@ -1,0 +1,10 @@
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\8\Solution\ListsFieldsButtons\bin\Debug\ListsFieldsButtons.exe.config
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\8\Solution\ListsFieldsButtons\bin\Debug\ListsFieldsButtons.exe
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\8\Solution\ListsFieldsButtons\bin\Debug\ListsFieldsButtons.pdb
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\8\Solution\ListsFieldsButtons\obj\Debug\ListsFieldsButtons.csproj.AssemblyReference.cache
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\8\Solution\ListsFieldsButtons\obj\Debug\ListsFieldsButtons.Form1.resources
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\8\Solution\ListsFieldsButtons\obj\Debug\ListsFieldsButtons.Properties.Resources.resources
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\8\Solution\ListsFieldsButtons\obj\Debug\ListsFieldsButtons.csproj.GenerateResource.cache
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\8\Solution\ListsFieldsButtons\obj\Debug\ListsFieldsButtons.csproj.CoreCompileInputs.cache
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\8\Solution\ListsFieldsButtons\obj\Debug\ListsFieldsButtons.exe
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\8\Solution\ListsFieldsButtons\obj\Debug\ListsFieldsButtons.pdb

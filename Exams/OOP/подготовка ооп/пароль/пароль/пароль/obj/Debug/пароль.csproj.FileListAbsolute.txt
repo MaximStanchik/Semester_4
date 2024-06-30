@@ -1,0 +1,10 @@
+E:\4 сем\подготовка ооп\пароль\пароль\пароль\bin\Debug\пароль.exe.config
+E:\4 сем\подготовка ооп\пароль\пароль\пароль\bin\Debug\пароль.exe
+E:\4 сем\подготовка ооп\пароль\пароль\пароль\bin\Debug\пароль.pdb
+E:\4 сем\подготовка ооп\пароль\пароль\пароль\obj\Debug\пароль.csproj.AssemblyReference.cache
+E:\4 сем\подготовка ооп\пароль\пароль\пароль\obj\Debug\пароль.Form1.resources
+E:\4 сем\подготовка ооп\пароль\пароль\пароль\obj\Debug\пароль.Properties.Resources.resources
+E:\4 сем\подготовка ооп\пароль\пароль\пароль\obj\Debug\пароль.csproj.GenerateResource.cache
+E:\4 сем\подготовка ооп\пароль\пароль\пароль\obj\Debug\пароль.csproj.CoreCompileInputs.cache
+E:\4 сем\подготовка ооп\пароль\пароль\пароль\obj\Debug\пароль.exe
+E:\4 сем\подготовка ооп\пароль\пароль\пароль\obj\Debug\пароль.pdb

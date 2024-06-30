@@ -1,0 +1,10 @@
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\32\Solution\TwoCheckBoxesAndTimer\bin\Debug\TwoCheckBoxesAndTimer.exe.config
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\32\Solution\TwoCheckBoxesAndTimer\bin\Debug\TwoCheckBoxesAndTimer.exe
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\32\Solution\TwoCheckBoxesAndTimer\bin\Debug\TwoCheckBoxesAndTimer.pdb
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\32\Solution\TwoCheckBoxesAndTimer\obj\Debug\TwoCheckBoxesAndTimer.csproj.AssemblyReference.cache
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\32\Solution\TwoCheckBoxesAndTimer\obj\Debug\TwoCheckBoxesAndTimer.Form1.resources
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\32\Solution\TwoCheckBoxesAndTimer\obj\Debug\TwoCheckBoxesAndTimer.Properties.Resources.resources
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\32\Solution\TwoCheckBoxesAndTimer\obj\Debug\TwoCheckBoxesAndTimer.csproj.GenerateResource.cache
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\32\Solution\TwoCheckBoxesAndTimer\obj\Debug\TwoCheckBoxesAndTimer.csproj.CoreCompileInputs.cache
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\32\Solution\TwoCheckBoxesAndTimer\obj\Debug\TwoCheckBoxesAndTimer.exe
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\32\Solution\TwoCheckBoxesAndTimer\obj\Debug\TwoCheckBoxesAndTimer.pdb

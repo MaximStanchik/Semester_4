@@ -1,0 +1,10 @@
+E:\4 сем\подготовка ооп\datetimepicker\datetimepicker\datetimepicker\bin\Debug\datetimepicker.exe.config
+E:\4 сем\подготовка ооп\datetimepicker\datetimepicker\datetimepicker\bin\Debug\datetimepicker.exe
+E:\4 сем\подготовка ооп\datetimepicker\datetimepicker\datetimepicker\bin\Debug\datetimepicker.pdb
+E:\4 сем\подготовка ооп\datetimepicker\datetimepicker\datetimepicker\obj\Debug\datetimepicker.csproj.AssemblyReference.cache
+E:\4 сем\подготовка ооп\datetimepicker\datetimepicker\datetimepicker\obj\Debug\datetimepicker.Form1.resources
+E:\4 сем\подготовка ооп\datetimepicker\datetimepicker\datetimepicker\obj\Debug\datetimepicker.Properties.Resources.resources
+E:\4 сем\подготовка ооп\datetimepicker\datetimepicker\datetimepicker\obj\Debug\datetimepicker.csproj.GenerateResource.cache
+E:\4 сем\подготовка ооп\datetimepicker\datetimepicker\datetimepicker\obj\Debug\datetimepicker.csproj.CoreCompileInputs.cache
+E:\4 сем\подготовка ооп\datetimepicker\datetimepicker\datetimepicker\obj\Debug\datetimepicker.exe
+E:\4 сем\подготовка ооп\datetimepicker\datetimepicker\datetimepicker\obj\Debug\datetimepicker.pdb

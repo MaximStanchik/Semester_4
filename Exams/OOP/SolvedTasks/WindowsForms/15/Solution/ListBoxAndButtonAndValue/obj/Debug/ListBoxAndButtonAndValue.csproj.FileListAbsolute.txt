@@ -1,0 +1,10 @@
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\15\Solution\ListBoxAndButtonAndValue\obj\Debug\ListBoxAndButtonAndValue.csproj.AssemblyReference.cache
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\15\Solution\ListBoxAndButtonAndValue\obj\Debug\ListBoxAndButtonAndValue.Form1.resources
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\15\Solution\ListBoxAndButtonAndValue\obj\Debug\ListBoxAndButtonAndValue.Properties.Resources.resources
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\15\Solution\ListBoxAndButtonAndValue\obj\Debug\ListBoxAndButtonAndValue.csproj.GenerateResource.cache
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\15\Solution\ListBoxAndButtonAndValue\obj\Debug\ListBoxAndButtonAndValue.csproj.CoreCompileInputs.cache
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\15\Solution\ListBoxAndButtonAndValue\bin\Debug\ListBoxAndButtonAndValue.exe.config
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\15\Solution\ListBoxAndButtonAndValue\bin\Debug\ListBoxAndButtonAndValue.exe
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\15\Solution\ListBoxAndButtonAndValue\bin\Debug\ListBoxAndButtonAndValue.pdb
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\15\Solution\ListBoxAndButtonAndValue\obj\Debug\ListBoxAndButtonAndValue.exe
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\15\Solution\ListBoxAndButtonAndValue\obj\Debug\ListBoxAndButtonAndValue.pdb

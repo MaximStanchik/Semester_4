@@ -1,0 +1,10 @@
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\1\Solution\DateTimePicker\bin\Debug\DateTimePicker.exe.config
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\1\Solution\DateTimePicker\bin\Debug\DateTimePicker.exe
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\1\Solution\DateTimePicker\bin\Debug\DateTimePicker.pdb
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\1\Solution\DateTimePicker\obj\Debug\DateTimePicker.csproj.AssemblyReference.cache
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\1\Solution\DateTimePicker\obj\Debug\DateTimePicker.Form1.resources
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\1\Solution\DateTimePicker\obj\Debug\DateTimePicker.Properties.Resources.resources
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\1\Solution\DateTimePicker\obj\Debug\DateTimePicker.csproj.GenerateResource.cache
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\1\Solution\DateTimePicker\obj\Debug\DateTimePicker.csproj.CoreCompileInputs.cache
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\1\Solution\DateTimePicker\obj\Debug\DateTimePicker.exe
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\1\Solution\DateTimePicker\obj\Debug\DateTimePicker.pdb

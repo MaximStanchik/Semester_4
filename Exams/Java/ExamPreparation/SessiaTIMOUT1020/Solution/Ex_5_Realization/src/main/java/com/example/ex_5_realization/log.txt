@@ -1,0 +1,10 @@
+июн. 21, 2024 11:38:33 PM com.example.ex_5_realization.LoggerUtil logInfo
+INFO: Login successful for user: user
+Session ID: E5B5DCB0ACF615AAF1F3F627E08DF208
+Session Creation Time: 1719002310200
+Login URL: http://localhost:8080/Ex_5_Realization_war_exploded/mainServlet
+июн. 21, 2024 11:38:47 PM com.example.ex_5_realization.LoggerUtil logInfo
+INFO: Login successful for user: admin
+Session ID: E5B5DCB0ACF615AAF1F3F627E08DF208
+Session Creation Time: 1719002310200
+Login URL: http://localhost:8080/Ex_5_Realization_war_exploded/mainServlet

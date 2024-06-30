@@ -1,0 +1,10 @@
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\20\Solution\AddElementsInListbox\bin\Debug\AddElementsInListbox.exe.config
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\20\Solution\AddElementsInListbox\bin\Debug\AddElementsInListbox.exe
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\20\Solution\AddElementsInListbox\bin\Debug\AddElementsInListbox.pdb
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\20\Solution\AddElementsInListbox\obj\Debug\AddElementsInListbox.csproj.AssemblyReference.cache
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\20\Solution\AddElementsInListbox\obj\Debug\AddElementsInListbox.Form1.resources
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\20\Solution\AddElementsInListbox\obj\Debug\AddElementsInListbox.Properties.Resources.resources
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\20\Solution\AddElementsInListbox\obj\Debug\AddElementsInListbox.csproj.GenerateResource.cache
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\20\Solution\AddElementsInListbox\obj\Debug\AddElementsInListbox.csproj.CoreCompileInputs.cache
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\20\Solution\AddElementsInListbox\obj\Debug\AddElementsInListbox.exe
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\20\Solution\AddElementsInListbox\obj\Debug\AddElementsInListbox.pdb

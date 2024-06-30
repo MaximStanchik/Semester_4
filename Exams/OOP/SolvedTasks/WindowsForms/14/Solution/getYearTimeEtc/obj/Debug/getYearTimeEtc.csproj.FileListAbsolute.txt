@@ -1,0 +1,10 @@
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\14\Solution\getYearTimeEtc\bin\Debug\getYearTimeEtc.exe.config
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\14\Solution\getYearTimeEtc\bin\Debug\getYearTimeEtc.exe
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\14\Solution\getYearTimeEtc\bin\Debug\getYearTimeEtc.pdb
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\14\Solution\getYearTimeEtc\obj\Debug\getYearTimeEtc.csproj.AssemblyReference.cache
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\14\Solution\getYearTimeEtc\obj\Debug\getYearTimeEtc.Form1.resources
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\14\Solution\getYearTimeEtc\obj\Debug\getYearTimeEtc.Properties.Resources.resources
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\14\Solution\getYearTimeEtc\obj\Debug\getYearTimeEtc.csproj.GenerateResource.cache
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\14\Solution\getYearTimeEtc\obj\Debug\getYearTimeEtc.csproj.CoreCompileInputs.cache
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\14\Solution\getYearTimeEtc\obj\Debug\getYearTimeEtc.exe
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\14\Solution\getYearTimeEtc\obj\Debug\getYearTimeEtc.pdb

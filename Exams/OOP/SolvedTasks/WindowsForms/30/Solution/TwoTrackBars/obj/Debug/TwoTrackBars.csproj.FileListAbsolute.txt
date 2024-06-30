@@ -1,0 +1,10 @@
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\30\Solution\TwoTrackBars\bin\Debug\TwoTrackBars.exe.config
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\30\Solution\TwoTrackBars\bin\Debug\TwoTrackBars.exe
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\30\Solution\TwoTrackBars\bin\Debug\TwoTrackBars.pdb
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\30\Solution\TwoTrackBars\obj\Debug\TwoTrackBars.csproj.AssemblyReference.cache
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\30\Solution\TwoTrackBars\obj\Debug\TwoTrackBars.Form1.resources
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\30\Solution\TwoTrackBars\obj\Debug\TwoTrackBars.Properties.Resources.resources
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\30\Solution\TwoTrackBars\obj\Debug\TwoTrackBars.csproj.GenerateResource.cache
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\30\Solution\TwoTrackBars\obj\Debug\TwoTrackBars.csproj.CoreCompileInputs.cache
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\30\Solution\TwoTrackBars\obj\Debug\TwoTrackBars.exe
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\30\Solution\TwoTrackBars\obj\Debug\TwoTrackBars.pdb

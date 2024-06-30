@@ -1,0 +1,52 @@
+﻿<Window x:Class="JewelleryStore.MessageWindows.DeliveryForm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" 
+        xmlns:local="clr-namespace:JewelleryStore.MessageWindows"
+        mc:Ignorable="d"
+        Title="DeliveryForm" 
+        Height="552" 
+        Width="400" 
+        ResizeMode="NoResize"
+        HorizontalAlignment="Center" 
+        VerticalAlignment="Center" 
+        WindowStyle="None"
+        AllowsTransparency="True"
+        Background="Transparent"
+        WindowStartupLocation="CenterScreen"
+        Cursor="{Binding Cursor}">
+    <Grid Margin="0,0,0,-168">
+        <Border CornerRadius="10"
+                Background="GhostWhite"
+                BorderBrush="{DynamicResource PrimaryHueLightBrush}"
+                BorderThickness="2" Margin="0,0,0,178"/>
+        <TextBox Cursor="{Binding Cursor}" x:Name="City" Text="" materialDesign:HintAssist.Hint="{DynamicResource City}" Width="334" Height="36" VerticalContentAlignment="Center" HorizontalContentAlignment="Left" Canvas.Left="32" Canvas.Top="177" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="30,52,0,0" />
+        <Button Click="ExitButton_Click"
+                Style="{StaticResource MaterialDesignFlatLightButton}"                 
+                Margin="340,10,10,678" Height="Auto"
+                Content="✖"/>
+        <TextBox Cursor="{Binding Cursor}" x:Name="Street" Text="" materialDesign:HintAssist.Hint="{DynamicResource Street}" Width="334" Height="36" VerticalContentAlignment="Center" HorizontalContentAlignment="Left" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="30,109,0,0" />
+        <TextBox Cursor="{Binding Cursor}" x:Name="Apartment" Text="" materialDesign:HintAssist.Hint="{DynamicResource Apartment}" Width="334" Height="36" VerticalContentAlignment="Center" HorizontalContentAlignment="Left" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="30,221,0,0" />
+        <TextBox Cursor="{Binding Cursor}" x:Name="Entrance" Text="" materialDesign:HintAssist.Hint="{DynamicResource Entrance}" Width="334" Height="36" VerticalContentAlignment="Center" HorizontalContentAlignment="Left" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="30,278,0,0" />
+        <TextBox Cursor="{Binding Cursor}" x:Name="Floor" Text="" materialDesign:HintAssist.Hint="{DynamicResource Floor}" Width="334" Height="36" VerticalContentAlignment="Center" HorizontalContentAlignment="Left" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="30,336,0,0" />
+        <TextBox x:Name="Comment" Width="334" Height="105" TextWrapping="Wrap" TabIndex="10"
+                Style="{StaticResource MaterialDesignFloatingHintTextBox}"
+                Text="{Binding DescriptionEn, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
+                materialDesign:HintAssist.Hint="{DynamicResource Comment}"
+                HorizontalAlignment="Left" VerticalAlignment="Top" Margin="30,372,0,0"/>
+        <Label x:Name="editUserLabel" Content="{DynamicResource DeliveryForm}" FontSize="15" Margin="10,10,283,678" FontWeight="Bold" Foreground="{DynamicResource PrimaryHueLightBrush}"/>
+
+        <Label Visibility="Hidden" x:Name="CityError" Content="{DynamicResource CityError}" Foreground="Red" HorizontalAlignment="Left" FontSize="10" Margin="30,88,0,0" VerticalAlignment="Top" Width="334" Height="21"/>
+        <TextBox Cursor="{Binding Cursor}" x:Name="House" Text="" materialDesign:HintAssist.Hint="{DynamicResource House}" Width="334" Height="36" VerticalContentAlignment="Center" HorizontalContentAlignment="Left" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="30,164,0,0" />
+        <Label Visibility="Hidden" x:Name="StreetError" Content="{DynamicResource StreetError}" Foreground="Red" HorizontalAlignment="Left" FontSize="10" Margin="30,145,0,0" VerticalAlignment="Top" Width="334" Height="21"/>
+        <Button Style="{StaticResource MaterialDesignRaisedButton}"
+        Height="30"
+        Foreground="White"
+        FontWeight="Bold"
+        Content="{DynamicResource Finish}" Margin="30,495,36,195"
+        Click="OrderButton_Click"/>
+        <Label Visibility="Hidden" x:Name="FloorError" Content="{DynamicResource FloorError}" Foreground="Red" HorizontalAlignment="Left" FontSize="10" Margin="30,372,0,0" VerticalAlignment="Top" Width="334" Height="21"/>
+    </Grid>
+</Window>

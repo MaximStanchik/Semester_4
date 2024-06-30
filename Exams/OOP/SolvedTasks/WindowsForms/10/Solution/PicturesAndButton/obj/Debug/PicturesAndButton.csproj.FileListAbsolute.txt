@@ -1,0 +1,10 @@
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\10\Solution\PicturesAndButton\bin\Debug\PicturesAndButton.exe.config
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\10\Solution\PicturesAndButton\bin\Debug\PicturesAndButton.exe
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\10\Solution\PicturesAndButton\bin\Debug\PicturesAndButton.pdb
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\10\Solution\PicturesAndButton\obj\Debug\PicturesAndButton.csproj.AssemblyReference.cache
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\10\Solution\PicturesAndButton\obj\Debug\PicturesAndButton.Form1.resources
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\10\Solution\PicturesAndButton\obj\Debug\PicturesAndButton.Properties.Resources.resources
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\10\Solution\PicturesAndButton\obj\Debug\PicturesAndButton.csproj.GenerateResource.cache
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\10\Solution\PicturesAndButton\obj\Debug\PicturesAndButton.csproj.CoreCompileInputs.cache
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\10\Solution\PicturesAndButton\obj\Debug\PicturesAndButton.exe
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\10\Solution\PicturesAndButton\obj\Debug\PicturesAndButton.pdb

@@ -1,0 +1,10 @@
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\12\Solution\ChangingTheWindowShape\bin\Debug\ChangingTheWindowShape.exe.config
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\12\Solution\ChangingTheWindowShape\bin\Debug\ChangingTheWindowShape.exe
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\12\Solution\ChangingTheWindowShape\bin\Debug\ChangingTheWindowShape.pdb
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\12\Solution\ChangingTheWindowShape\obj\Debug\ChangingTheWindowShape.csproj.AssemblyReference.cache
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\12\Solution\ChangingTheWindowShape\obj\Debug\ChangingTheWindowShape.Form1.resources
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\12\Solution\ChangingTheWindowShape\obj\Debug\ChangingTheWindowShape.Properties.Resources.resources
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\12\Solution\ChangingTheWindowShape\obj\Debug\ChangingTheWindowShape.csproj.GenerateResource.cache
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\12\Solution\ChangingTheWindowShape\obj\Debug\ChangingTheWindowShape.csproj.CoreCompileInputs.cache
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\12\Solution\ChangingTheWindowShape\obj\Debug\ChangingTheWindowShape.exe
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\12\Solution\ChangingTheWindowShape\obj\Debug\ChangingTheWindowShape.pdb

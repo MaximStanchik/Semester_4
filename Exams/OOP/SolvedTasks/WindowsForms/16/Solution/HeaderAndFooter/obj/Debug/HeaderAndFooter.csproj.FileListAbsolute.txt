@@ -1,0 +1,10 @@
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\16\Solution\HeaderAndFooter\obj\Debug\HeaderAndFooter.csproj.AssemblyReference.cache
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\16\Solution\HeaderAndFooter\obj\Debug\HeaderAndFooter.Form1.resources
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\16\Solution\HeaderAndFooter\obj\Debug\HeaderAndFooter.Properties.Resources.resources
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\16\Solution\HeaderAndFooter\obj\Debug\HeaderAndFooter.csproj.GenerateResource.cache
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\16\Solution\HeaderAndFooter\obj\Debug\HeaderAndFooter.csproj.CoreCompileInputs.cache
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\16\Solution\HeaderAndFooter\bin\Debug\HeaderAndFooter.exe.config
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\16\Solution\HeaderAndFooter\bin\Debug\HeaderAndFooter.exe
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\16\Solution\HeaderAndFooter\bin\Debug\HeaderAndFooter.pdb
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\16\Solution\HeaderAndFooter\obj\Debug\HeaderAndFooter.exe
+D:\User\Desktop\StudyAtBSTU\Course_2\Semester_4\Exams\OOP\SolvedTasks\WindowsForms\16\Solution\HeaderAndFooter\obj\Debug\HeaderAndFooter.pdb
