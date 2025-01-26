@@ -1,0 +1,10 @@
+D:\User\Documents\GitHub\Semester_4\Exams\OOP\подготовка ооп\прикол\hamster kombat\bin\Debug\hamster kombat.exe.config
+D:\User\Documents\GitHub\Semester_4\Exams\OOP\подготовка ооп\прикол\hamster kombat\bin\Debug\hamster kombat.exe
+D:\User\Documents\GitHub\Semester_4\Exams\OOP\подготовка ооп\прикол\hamster kombat\bin\Debug\hamster kombat.pdb
+D:\User\Documents\GitHub\Semester_4\Exams\OOP\подготовка ооп\прикол\hamster kombat\obj\Debug\hamster kombat.csproj.AssemblyReference.cache
+D:\User\Documents\GitHub\Semester_4\Exams\OOP\подготовка ооп\прикол\hamster kombat\obj\Debug\hamster_kombat.Form1.resources
+D:\User\Documents\GitHub\Semester_4\Exams\OOP\подготовка ооп\прикол\hamster kombat\obj\Debug\hamster_kombat.Properties.Resources.resources
+D:\User\Documents\GitHub\Semester_4\Exams\OOP\подготовка ооп\прикол\hamster kombat\obj\Debug\hamster kombat.csproj.GenerateResource.cache
+D:\User\Documents\GitHub\Semester_4\Exams\OOP\подготовка ооп\прикол\hamster kombat\obj\Debug\hamster kombat.csproj.CoreCompileInputs.cache
+D:\User\Documents\GitHub\Semester_4\Exams\OOP\подготовка ооп\прикол\hamster kombat\obj\Debug\hamster kombat.exe
+D:\User\Documents\GitHub\Semester_4\Exams\OOP\подготовка ооп\прикол\hamster kombat\obj\Debug\hamster kombat.pdb
